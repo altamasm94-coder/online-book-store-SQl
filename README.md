@@ -16,7 +16,7 @@ SQL CONCEPST
 * GROUP BY and HAVING
 
 
-PROJJECT FILES 
+PROJECT FILES 
 * online_book_store.sql - SQL queries used for the analysis
 
 KEY LEARNING
